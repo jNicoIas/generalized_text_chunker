@@ -1,0 +1,366 @@
+Hey everyone, welcome to the channel.
+My name is Mike and in this tutorial, I'm going to show you how to go from beginner to expert with the most powerful tool on the internet right now.
+That's ChatGPT.
+You may have seen headlines about this disruptive artificial intelligence being able to replace jobs and write documents and emails and answer questions and the list goes on and on.
+I can even write code.
+So in this video, I'm going to start out with the bare bone basics of account setup and interface layout and then I'll go over 10 major types of commands that you can use to get the most out of this software.
+And at the end, once we get to the more advanced ones, I'll show you how to modify and optimize your commands to get even better responses.
+This is great for web development, for food and cooking ideas, for business, education, health, mental health, the list goes on and on with what you can do with ChatGPT.
+So it's extremely powerful, really could change your life in many different ways.
+Let's get started with how to actually use it.
+So the first thing we want to do is create an account with ChatGPT.
+So open up whatever browser you like and go to chat.openai.com.
+I'll put a link in the description so you guys can copy that as well.
+And you'll see a page that looks something like this.
+We're going to click on sign up and from here, we can either sign up with our email address or with a Google account or a Microsoft account.
+I'm just going to enter an email address.
+We're going to say tutorials at santrellmedia.com and then we're going to
+to create a password, and then you have to verify your email.
+So, just open up your email, click on the little Verify Email button,
+and that should open up in a new tab and say, you're ready to go.
+And email's been verified, so we can come over here and we can refresh this.
+And now it's going to ask us a little bit of information about ourselves.
+It's really not much, just our name.
+I think it's going to ask for our phone number as well, so I'm going to say Mike.
+And then it brings you to ChatGPT.
+Now, ChatGPT is free to use.
+Right now, it's sort of a free research preview is what they're calling it.
+It's still pretty early on, but you can do a lot with this, of course.
+And so, they have some little disclaimers here.
+There are safeguards, but they're saying basically it's not perfect.
+You might have some information that's either not correct because this hasn't actually been connected to the internet.
+It hasn't been trained since 2021, so some things might be outdated.
+Additionally, it tries to not say anything offensive or biased, but it's saying right here it's still early on and that may happen.
+So, we're saying next.
+As far as collecting data, this is designed to really optimize it.
+That's why they give it out for free right now in the research mode.
+Because they really want to review these conversations and improve the software from there.
+So, again, a little disclaimer.
+And if you want to give feedback, they have ways to do that.
+I'll show you throughout this video.
+Okay, so here's the interface.
+Starting off on the bottom left, you can log out.
+You can see updates and frequently asked questions.
+We can toggle to dark mode or light mode.
+I actually like dark mode a little better.
+So, I think we'll keep that for this video.
+We can upgrade to plus, which I believe just...
+kind of prioritizes you, so you don't have to wait as long for the software to run, and there's a couple other little benefits like that.
+And, of course, we can go to a new chat, so you can have multiple different simultaneous chat threads.
+The reason that you might want to do that is because ChatGPT is sort of like a person in that it remembers what you said last.
+It's not like Google, but it doesn't really remember what you just said, so I can ask a question, I can say, what time is it?
+It'll tell me that, and I'll say, yeah, but tell me that in 24-hour time, and it'll do that.
+It'll remember what I asked before, as well as what it said, and so it's kind of running with the same thread, and if you want to have a totally different conversation, if you want to work on something completely different, a new chat would sometimes make the most sense.
+Now, everything in the middle will disappear after your first command, but just a quick overview here.
+The first one, we've got some examples there.
+I'll give you plenty in this video.
+Second one, we have capabilities.
+Third one, we have limitations.
+Now, the limitations, let's start off there.
+As I mentioned before, it could possibly have incorrect information.
+This is optimized to be a real language model.
+It wants to sound accurate.
+It wants to sound convincing, like a real person, but it doesn't mean everything's factually validated, right?
+It's possible that you'll get wrong information.
+It's not super common, but it can happen, of course, and this hasn't actually been connected to the internet, and it hasn't been trained since 2021, so it could be a little bit outdated on some things, but for the vast majority...
+of stuff you ask it to do.
+It really works just fine.
+I haven't found these limitations
+to be especially big drawbacks, but something you want to know.
+Don't ask it what the weather is because it doesn't have internet connection.
+Capabilities, it is, you know, it doesn't want to do inappropriate requests.
+It's not going to write like mean, hateful things to somebody.
+Of course, it is also, it remembers what you said in the chat, as I mentioned before, and it allows you to provide follow-up feedback.
+So, let's go through these 10 different commands I mentioned.
+The first one, the most basic one, is just a simple question, similar to what you'd ask on Google.
+You could ask for a definition of something.
+You could ask who somebody was, ask about different things, just a basic one-line question that you might expect, and this is going to give you an informational answer as if you were using it like a search engine.
+So, I could say, for example, what does sagacious mean?
+What does sagacious mean?
+It's going to give me a definition, and you'll also notice once it does this, first of all, it says stop generating.
+That's a button you could click.
+If it's running on too long, giving you a really long thing, and just kind of wasting your time, or maybe you realize you typed the wrong word in, you didn't finish typing it, you can say stop.
+Of course, down here, we also have the regenerate response after it's done.
+If you see it and you think, you know what, I really don't like that, it doesn't really make sense for this, but later on in the video when we talk about write an email for me or something like that, you could say, I don't really like how this looks, and just regenerate response, and it will do that for you.
+Once again, that option...
+pops up down here again to stop generating.
+But talking about some other things in the interface, you'll see on the left side, it automatically created a new chat and named the chat.
+It said, Sagacious Meaning, sometimes it might say Sagacious Definition, whatever.
+It automatically gave it a name.
+You can rename it if you want to, or you could delete that.
+Going back over here, you can give it a thumbs up and a thumbs down.
+That'll be how you can give feedback to the actual chat bot here.
+So, if I say thumbs up, I could say, good job.
+Good, or I could say accurate.
+Accurate, and we can submit feedback.
+In that way, OpenAI will know that that was a good answer.
+Of course, as you have more responses generated, on the left side, we have a little toggle here that shows up when you hover over it, and we can go back to the first response or the second response and again, compare them.
+Doesn't make as much sense with something like this, but later on in the video, when you're having it generate different emails and documents and things like that, you might want to see the different ones and actually compare for yourself.
+Of course, on the left side, the other thing that popped up was clear conversations.
+If you want to just wipe everything clean and start fresh, that is what you would do right there.
+Now, you might wonder, why would you want to clear conversations?
+I mentioned before, it remembers what you said, and this is a great time to show an example of that.
+So, it explained what a word means.
+Now, if this was Google, and I wanted to get essentially a synonym for that, I would have to say, sagacious synonym.
+But here, I could just say,
+now give me a synonym and it knows that we're talking about sagacious it remembers what we're talking about and it can give synonyms right here we can say use it in a sentence next that's going to be another example you can really ask all types of different things and you can really make the questions even more detailed than that so we could say now use it in 10 sentences right we can give it an example we can tell it what to do and it's going to give us 10 different example sentences right here you can do 15 you can do five whatever you want and again super useful super powerful something that you don't see otherwise on a search engine like google now speaking of lists that brings me into the second main type of command you can use this one which is to generate lists you can ask it to generate lists of ideas maybe this is going to be a list of themes for party ideas or a list of hobbies a list of life purposes list of business ideas you can do whatever you want and so let's go with an example right here so let's go and create a list of ideas create a new chat for this one because we're talking about something different and let's say i want to find a new hobby so we could say uh create create a list of hobbies
+create a list of hobbies it'll give me a list of hobbies but really again what's cool about this is this might be a surface level inquiry we could just say give me some hobbies and on google you're likely to find some blog that gives you something like this but really the advantage of chat g
+is you can tailor this list and get a custom response just for you.
+So let's stop, I didn't mean to regenerate, let's stop generating that.
+And I could say instead, how about generate a list of 10 fun and very unique outdoor hobbies for an American couple in their mid-20s that most people never heard of, which is extremely specific.
+You wouldn't find that on Google.
+And with this, if we hit enter, we're probably going to find things that I think really answer that well.
+So let's see what it comes up.
+So let's see the responses here.
+Disc golf, parkour, paddleboarding, kiteboarding, canyoneering, axe throwing.
+Yeah, I think it pretty much did exactly what I was asking it to do.
+And this, again, is something that if you searched on Google, you'd really have to hope that somebody made a blog and answered that for you.
+So you're getting really custom responses here.
+And really the big point of me showing you this right here is to explain how to get better, more tailored responses for your needs.
+So rather than just asking, give me a list of hobbies and kind of asking again and again, you want to add as many details in there.
+So first of all, describe what you're looking for.
+So I'm looking for a list of 10 fun and unique outdoor hobbies, right?
+And then describe who you are, like what you actually want.
+So what it's for.
+It's going to be for American couples in their mid-20s.
+And we're looking for things that most people never heard of.
+The more information you give it, the more accurate your output is going to be, obviously up to a certain limit.
+But it doesn't actually matter if you have perfect grammar.
+This could be a run-on sentence.
+You could have different problems in there, but the more information you give it generally, the better.
+Number three on this list are long written prompts for emails, essays, music, poetry, legal documents, anything like that.
+And so, we can go with an example right here and we can ask it to maybe write an email or how about this one?
+Let's just say, write a YouTube comment from my perspective, so you, about Michael Bryan's YouTube video explaining how to use ChatGPT.
+So, we're going to hit enter there and see what it writes.
+It's probably going to write something that is approximately the right length.
+So, you can ask it to write a tweet, write an essay, write an email, write a comment and generally does a good job, from my experience, of writing the appropriate length.
+So, if you guys want, if you're following along, you could do the same thing and paste your comment below.
+And I don't know, whichever comments are the best, I'll put a heart next to them.
+But you can ask it to make a funny comment, you can ask it to make whatever, but go ahead and do that and leave that comment down below.
+Now, on a more practical note, maybe we want it to write a template for like a legal document, maybe something that, for example, a lease, if you are a landlord, you want a tenant, like instead of going to LegalZoom, or instead of finding some arbitrary like template online, you can essentially make it or have it make the template for you.
+So, I already kind of pre-wrote this.
+We can ask it to write a 12-month lease.
+And once again, you want to add as much detail as possible.
+So, 12-month lease, this is the start date, we want the tenant name.
+in there, the address in there, the price, the deposit, other things in there.
+And you can also add all types of weird things that are going to be integrated smoothly in there, rather than you going in afterwards and just kind of shoehorning it in.
+So, we can have it, for example, say that they have to always keep a pickle in their mailbox, something weird like that, and we'll hit enter and see what it comes up with.
+Now, of course, as always, this is not legal advice.
+I wouldn't just run with this and hope that it's a sound legal document.
+You really want to make sure that you're consulting with an attorney, but using this as a template, using this as a springboard, can really save you a lot of time and a lot of effort.
+OK, so a relatively short lease agreement, but it does cover pretty much everything I was asking it to right there.
+But we can ask it maybe to make it a little bit longer.
+Wow, OK, so that took a pretty long time, but you can see this is definitely a lot longer.
+It's definitely a little bit more fleshed out, like we said.
+And you could copy and paste this into a Word document and kind of build off of that and make your own lease agreement kind of with this framework.
+But, of course, it's not perfect, like I said.
+Always consult your attorney, always do all that stuff.
+But, you know, it's a good springboard you can go with.
+Now, other options, like I said, when you're asking this to write stuff, there's a lot of different things, from emails to essays to music to poetry, a lot of different things.
+So let's talk about if you wanted to write an email, some other tips I have would be to give it more descriptions of how you want it to write.
+the style in which you want it to write?
+Do you want it to be inspirational?
+Do you want it to be friendly?
+Do you want it to be bold and aggressive?
+And then of course, another really nice thing that I like to do is ask it to incorporate a quote from somebody that you think would be pretty relevant.
+It does a really good job from my experience of finding relevant quotes from figures.
+So for example, we can go with something really crazy and say that, let's have it write a motivating email with a quote from Nelson Mandela explaining that all employees in the company will get a 20% pay cut while the top executives get a larger Christmas bonus.
+Make it really inspiring
+and positive.
+Like, let's just, let's see what it does.
+Something like that.
+But okay, so here it says it can't do that.
+I'm going to go and create a new chat because I think it can do this.
+I had to do this exact prompt earlier and it was able to do that.
+So let's see what, there we go.
+It's doing it right here in a new chat.
+For some reason, it didn't like it when we were talking about hobbies, but in this new one, let's see what it comes up with.
+So dear valued customers, I hope this email finds you well.
+I want to take a moment to share some excitement with you.
+I want to take a moment to share some excitement with you.
+I want to take a moment to share some exciting news with you.
+As we approach the holiday season, we want to share our appreciation, hard work, blah, blah, blah.
+Okay, so it does a pretty good job right there.
+Nelson Mandela once said the greatest glory in living lies, not in never falling, but in rising every time we fall.
+So that's a good quote to add in there.
+I think like they did a good job of
+like, wow.
+Another Nelson Mandela quote that really went above and beyond here.
+two Nelson Mandela quotes.
+So, you can see, made it inspiring and it really sugar-coated some like really bad and aggressive news about giving executives higher bonuses at the expense of employees.
+So, that's kind of an example there, first of all, of some of the limitations that you do have with chat GPT.
+It's not always perfectly consistent and it will say like, hey, this is not a good thing.
+Like, we would not write an unethical or unprofessional email, but then right here, it had no problem doing exactly that and it named it pay cut and bonus.
+Okay, so we spent a little bit of time on that last one.
+That's really a big portion of what I've been using chat GPT for to write different things and kind of just use it as a template, use it as a springboard to make emails and documents and things like that.
+Moving on to number four, though, kind of tied in with essays.
+This would be to answer questions that are a little bit more complex.
+For example, if you have a question that you want to answer, you can type it in the chat, you can type it in the chat, you can type it in the chat, you can type it in the chat, you can type it in the chat.
+And then there's a simple one here.
+So, like let's say I just had a really difficult physics homework problem.
+Right here, I have, I copied this from an MIT quantum physics exam and we can hit enter.
+Now, again, it's not always factually accurate, but it does a pretty good job from my experience of answering questions within the question, doing some math and really giving, for the most part, some pretty accurate answers.
+It does a good job at least for getting you started, much like you'd see from, like, Chegg or, you know, Quora or something like that.
+Wow, it's really going here.
+It just started part...
+B.
+All right, so there's a very lengthy and detailed answer to that question.
+It's been a while since I took quantum and I'm not about to verify if this is correct.
+If you guys want to verify for me, let me know if that looks right.
+But it can do things like that different math problems.
+And of course, one thing to note is if you are doing numerical things that are really based on multi digit, like a lot of rounding, this does have, you know, really substantial round off error from my experience, especially if it's doing more complex problems.
+So always verify the numbers and do it for yourself.
+Just to make sure you don't have any kind of error like that.
+Moving on to the next one, this is actually feedback prompts, you can give it something and ask for feedback.
+So I could, for example, I just copied and pasted an essay from like way back when I was in college, took this dance class and had to like write an essay about it, we can say critique this essay, I'm going to copy and paste that.
+So critique this essay and I have a colon and I pasted the entire essay, it'll read the essay and it'll tell me what it thinks about the essay.
+So it kind of gives you a little bit of summary, it makes you feel good, it's going to tell you what it thinks about the essay.
+So it kind of gives you a little bit of oh, it's well written, it was not well written, I promise.
+But it'll give you some other things, it'll say, for example, where is it?
+Here we go here, a couple areas improvement, it could be clearer, more structured and organized.
+It could have more personal experience, it gives me some examples, which is also really nice of what I could add to that.
+And overall, it tells me effective essay, but you could add a couple things and it could be a little bit better.
+So that is something you could do if you already wrote an essay.
+and you want this to criticize your essay and make you a little bit better.
+You could do this with emails as well.
+You write an email and put it in here and say, critique this email, it'll tell you you're a little bit bold, you're a little bit friendly, whatever.
+I think it's kind of nice just to kind of bounce ideas off of something else.
+Moving on to number six, these are modification prompts.
+So, rather than criticizing an essay, you could give it something and ask it to translate to another language.
+You can ask it to lengthen something.
+You can ask it to paraphrase something by shortening it.
+Or, of course, you could ask it, you could give it something and say, reword this so that it is not plagiarized.
+Not that I would ever recommend doing that, write your own work, of course, but it's something that's really powerful and interesting that you're able to do that.
+If you have your own work and you want to reword it a little bit differently, you could just give it something and say, reword this.
+So, all of those, I think, are really powerful and interesting.
+And, of course, to do any of those, it's really pretty self-explanatory.
+Really, all you'd say is reword this and then put a colon and just, like, paste the whole thing.
+Or you could say, translate this from English to Spanish, put a colon, paste the whole thing, paraphrase, whatever you want to do.
+Lengthen this is another one that you can really add.
+And so, for example, if I wanted to lengthen my essay, or we could say, paraphrase...
+We could say, now paraphrase that essay.
+And so, it's going to be...
+It's going to take the entire essay and kind of boil it down.
+to some sad little pathetic thing about, uh, me and that, that required dance class I took senior year of college.
+And we can ask it to do it even more.
+It's a very long sentence.
+That's a very long sentence.
+So that, that's, that's a bit of a run-on sentence.
+I'd give you that one there.
+Now we could say, now, please translate.
+Now we can translate that response to Spanish.
+And it's going to
+translate the paraphrase of the paraphrase to Spanish.
+So it really, I don't know.
+I think that's pretty cool.
+Something that you can do, maybe spark some ideas and maybe you'll find a use for this.
+Now, the next one are actually guided prompts.
+So this is something that could be like a step-by-step.
+You could say, how do I make a certain recipe would be a good example.
+You could say, how do I use certain software?
+How do I build something?
+So we could say like, how to format a Word document in MLA.
+Something like that.
+And it'll tell us how to do that.
+It'll give us some guidelines.
+So it tells us the first thing to do, second thing to do, double spacing, margins, one inch, blah, blah, blah, all that stuff like that.
+And so it's really useful to have like a nice list that it gives you in, you know, right here, you can ask it how to do it exactly.
+And another example right here, this is one that I've actually used quite a bit.
+When you have like some ingredients in your fridge, you didn't go grocery shopping for the week yet, then you can just tell it what you have and ask for some.
+different dinner ideas.
+So, if I just say, I've got onions, tomatoes, garlic, beef,
+spaghetti, squash, and other ingredients, like kind of generic other ingredients, what can I make so that way we're not restricting to just this?
+I'm okay with getting like one or two ingredients, but I don't want to buy everything for dinner.
+We can say, what can we make with this?
+I'll hit enter, and it can give me some different ideas as well as a full recipe on how to actually make that dinner.
+Now, number eight is very similar to number seven.
+We're starting to chat for this one.
+And this is, rather than modifying text, it's actually extracting data from text.
+So, if I just say, like, I have a big paragraph or something that I found, like an article, and I just want it to extract the data for me and give me the answer very, very quickly, I could say, based on this Wikipedia,
+when was the first model tea made?
+And then paste the article right there, and it should be able to read the whole thing and tell me.
+The first model tea was made on October 1st, 1908, which is exactly what we're seeing in there.
+Again, really cool, but we could actually do even more than that and now say, now save that as a,
+now output that as a Python variable.
+Now we can do even more than that and say, now output that as a Python variable.
+Right there.
+So, it's cool.
+it's going to be really useful to do something like that if you have a lot of data or a really long paragraph and you just want to like you're doing some code you want to get things quickly
+that's a cool easy way to actually go about doing that and extract data from a larger data set that's kind of a more unique situation not everyone's going to be using number eight here but speaking of code that brings me into the next one number nine is the ability to actually write code with chat gpt this is really powerful it does really i mean from my experience it does a great job and we can have it do all types of different things so for one let's go with this example right here that i already wrote down this knows like for example if we want to use python we can ask it to maybe open documents like word documents convert them to a pdf and then save them to a subfolder within that parent folder so if i just go and say write a python script to open document files convert them to a pdf and then save them in the subfolder named mike is cool of course uh within the parent folder and then do that so the more information you give it the more there's going to be any actual code at the end otherwise uh it will have like for example i didn't say what the the parent folder was called and so it's going to have little quotes there and i'll have to go and actually input that later myself but uh it does like it really does all the back work for you so right here you can see where it says users users documents that's the folder path that i will actually have to do but it does a good job of commenting out what you actually have to do so right there set the path
+folder, right, so that's what we're going to have to do.
+It tells me what it did, it loops through, so I don't have to change that.
+It created the folder, I didn't have to do anything with that.
+And so all we have to do here is copy and paste this into Python, add, you know, the file path right there, and then run it and it should be able to do exactly what we want it to do.
+It's going to open Word documents, it's going to convert them to PDFs, it's going to save them to a sub folder.
+And that's really cool.
+It's going to loop through that.
+So if you have like 500 Word documents, and you don't know Python at all, but you want something that automatically does it for you, you could have this write that little script right there, run it on Python, you just saved yourself whatever time it takes to convert 500 Word documents to PDFs.
+I assume that would take hours, right?
+I mean, unless you did it like this, it takes seconds or minutes like this.
+Okay, so let's open a new chat.
+Now, if you don't use Python, there's a lot of different languages you can use basically anything you go to stack overflow for.
+In many situations, you can just ask it on here.
+You can also debug code as well.
+So if you input your code, and you say like, what's wrong with this, it can usually do some debugging for you.
+Of course, it's not perfect, longer, more complicated code can be even more difficult.
+But for basic things, it is really cool.
+Of course, we can also say, we can ask you to run things for us.
+So for example, if we say write a Python script,
+calculate all prime numbers under 100.
+That's something that, again, if you don't know how to use Python, if you don't want to go and actually run the actual code, you can ask it to do things for you right here.
+And so it's going to write the code for us, then we're going to copy the code, and we're going to ask it to actually run that code for us.
+So let's give it one second.
+There we go, so we can copy the code.
+We can, oh, actually, it's going to do it right now.
+It already did that.
+Okay, it doesn't always do that.
+Sometimes you have to go and say, run the Python code, and then you paste it, but it looks like it already did it for us.
+Okay, and then lastly, number 10, before I get into two little bonuses on how to modify your actual requests here, number 10 is actually just using this as a conversational bot.
+This is great for mental health or just, you know, if you want to talk to somebody, it's really nice to have that.
+You can also ask it all types of different questions.
+You could say, like, it's good to bounce ideas off this.
+You could just say, like, I'm thinking about working out.
+I'm thinking...
+But I hurt my bicep.
+What workout?
+What would you...
+Right, something like that.
+So it can give you some advice, which is useful.
+So it's going to tell me other muscle groups I can use.
+Again, kind of cool just to talk to this.
+And, of course, as I mentioned, this could be really powerful for anybody who's in a dark place and needs help with their mental health.
+Some people I know, it's, like, intimidating to go and find a therapist or something.
+And so while this is no replacement for therapy, it could be a good start that could really help.
+people get out of a really dark area.
+Now, there are two things that can modify
+how you get responses that I wanted to point out.
+The first one, if I ask something like, explain string theory, it's a very complicated concept.
+So, you're going to be getting a pretty complicated answer down here.
+Now, I could say instead, now explain it to me.
+We can say, now explain to me like I'm five years old and it can give me the response again, but in more basic terms.
+So, you can ask it to re-answer it, but add another modifier on there and say, do it like this.
+Do it as if I'm five years old, do it as if I were this person and do things like slightly differently.
+So, you can say, like here you can see a much simpler, much more fundamental and basic example or explanation of what that is.
+And then the second way you can modify things is kind of similar, but going back to that writing thing I was talking about before, when you're writing emails, writing essays, writing whatever paragraphs, not only can you add quotes in there, you can tell it what style to write in.
+So, rather than just writing in a generic style, you can say, write things as if you were like Quentin Tarantino, for example.
+So, if I wanted to write a tweet, I'm actually just, I already wrote this down, write a tweet about iPhones, but do it like you are Quentin Tarantino and you're dehydrated in a desert.
+So, we'll hit enter and see what it actually comes up with.
+Um, yo, this is QT and I'm dehydrated.
+Okay, so this is, that's, yeah, so there you go, so that's...
+That's basically a tweet right there from Quintin Tarantino.
+Let's see what else they can do.
+Do it again.
+Um, and lost in the desert, parched.
+Alright, so let's do this again, uh, one last time.
+I could do this all day long.
+This is just, like, this is what I do.
+I love just, like, having ChatGPT do these, like, ridiculous, like, tweets and stuff like that.
+Sometimes I'll share them on Twitter, you can follow me and you'll see these every now and then.
+Um, but...
+Okay, so those are the ten different command styles with ChatGPT.
+Hopefully you found this video very helpful and informational.
+So that you can now start using ChatGPT, now that you set up your account, and really get a lot done.
+Whether that is for business, whether that's creative, whether that is personal hobbies, just ideas, talking to it as if it were a friend, or things around the house, like making different dinners.
+If you enjoyed this video, consider liking and subscribing.
+I'm Michael Bryan with Santral Media.
+Thanks for watching, and I'll see you next time.

@@ -1,0 +1,1474 @@
+artificial intelligence AI is a branch of
+computer science that deals with the development
+of machines that can perform tasks that typically
+require human intelligence such as visual
+perception speech recognition decision making
+and language translation the goal of AI is
+to create intelligent machines that can think
+reason and learn like humans these machines
+are designed to mimic human cognitive abilities
+and make decisions based on data algorithms
+and statistical models AI has the potential
+to revolutionize many fields including Healthcare
+Finance education and transportation it has
+already led to significant advancements in
+areas such as speech recognition natural language
+processing and computer vision
+the idea of creating machines that can perform
+intelligent tasks dates back to ancient times
+the Greek myth of Talos a giant bronze automaton
+that guarded the island of Crete is an early
+example of this concept however the modern
+history of AI begins in the mid-20th century
+with the development of electronic computers
+in 1950 the British mathematician and computer
+scientist Alan Turing proposed the Turing
+test a method for determining whether a machine
+can exhibit intelligent behavior that is indistinguishable
+from that of a human this idea laid the foundation
+for the development of AI in the 1950s and
+1960s researchers began to develop algorithms
+and programs that could perform simple tasks
+such as playing chess and solving mathematical
+problems the term artificial intelligence
+was coined in 1956 by John McCarthy Marvin
+Minsky Nathaniel Rochester and Claude Shannon
+at the Dartmouth Conference during the 1970s
+and 1980s AI research faced setbacks due to
+technical limitations and unrealistic expectations
+however the development of expert systems
+which are computer programs that can simulate
+the decision-making ability of a human expert
+in a specific field renewed interest in AI
+researched during the 1990s and 2000s advances
+in computing power and data storage capacity
+led to the development of machine learning
+a technique that allows machines to learn
+from experience and improve their performance
+over time this led to significant advancements
+in areas such as speech recognition natural
+language processing and computer vision in
+recent years deep learning a type of machine
+learning that uses artificial neural networks
+to simulate the structure and function of
+the human brain has revolutionized the field
+of AI deep learning has led to breakthroughs
+in areas such as image and speech recognition
+natural language processing and Robotics today
+AI is used in a wide range of applications
+including self-driving cars virtual personal
+assistance and medical diagnosis it is expected
+to continue to have a significant impact on
+many aspects of society in the future before
+going deeper make sure to subscribe to our
+Channel it costs nothing and helps the channel
+grow
+artificial intelligence AI can be classified
+into different types based on their capabilities
+and functions the three main types of AI are
+as follows narrow or weak AI narrow or weak
+AI is designed to perform a specific task
+or set of tasks this type of AI is trained
+on a limited data set and performs well only
+in a specific domain it was designed for examples
+of narrow or weak AI include image and speech
+recognition language translation and virtual
+personal assistants like Siri and Alexa general
+or strong AI general or strong AI is designed
+to perform any intellectual task that a human
+can do this type of AI has the ability to
+reason learn and adapt to new situations general
+or strong AI does not exist yet and is a goal
+for future AI development artificial super
+intelligence artificial super intelligence
+is an extension of general or strong AI it
+is an AI system that surpasses human intelligence
+in every possible way artificial super intelligence
+does not exist yet but it is a theoretical
+concept that has gained attention in recent
+years
+artificial intelligence is being used in various
+applications to improve efficiency accuracy
+in decision making some of the key applications
+of AI are as follows Healthcare AI is being
+used in healthcare to improve patient outcomes
+and reduce costs AI powered systems can help
+doctors diagnose diseases personalize treatments
+and monitor patients remotely Finance AI is
+being used in finance to detect fraud manage
+risk and automate customer service AI powered
+chat Bots are being used by financial institutions
+to provide personalized assistance to customers
+Transportation AI is being used in transportation
+to improve safety efficiency and sustainability
+self-driving cars use AI to navigate roads
+avoid obstacles and make decisions in real
+time education AI is being used in education
+to personalize learning and improve student
+outcomes AI power tutoring systems can adapt
+to the individual needs of students and provide
+feedback to teachers manufacturing AI is being
+used in manufacturing to improve productivity
+quality and safety ai-powered robots are being
+used to perform tasks such as assembly welding
+and inspection retail AI is being used in
+retail to improve customer experience and
+increase sales AI powered systems can analyze
+customer data to provide personalized recommendations
+and improve Inventory management agriculture
+AI is being used in agriculture to improve
+crop yields reduce waste and optimize resource
+usage AI powered systems can analyze data
+from sensors and drones to provide insights
+on soil Health crop growth and weather patterns
+artificial intelligence AI has the potential
+to bring about significant benefits to society
+however it also raises ethical concerns that
+need to be addressed some of the key ethical
+considerations related to AI are as follows
+bias and fairness AI systems can perpetuate
+and amplify biases present in society leading
+to unfair treatment of certain groups it is
+essential to ensure that AI systems are designed
+and developed in a way that is fair and unbiased
+privacy AI systems often collect and analyze
+vast amounts of personal data raising concerns
+about privacy and data protection it is essential
+to ensure that AI systems are designed and
+developed in a way that respects individuals
+privacy rights accountability AI systems can
+make decisions that have significant consequences
+for individuals and society as a whole it
+is essential to ensure that there is accountability
+for the decisions made by AI systems and that
+individuals can challenge and appeal those
+decisions transparency AI systems can be complex
+and difficult to understand making it challenging
+to assess their impact and ensure accountability
+it is essential to ensure that AI systems
+are transparent and explainable so that individuals
+can understand how decisions are made safety
+AI systems can have unintended consequences
+and pose risks to human safety it is essential
+to ensure that AI systems are designed and
+developed in a way that is safe and does not
+pose a threat to individuals or Society employment
+AI has the potential to automate many jobs
+leading to job displacement and unemployment
+it is essential to ensure that AI is developed
+and used in a way that supports human employment
+and creates new job opportunities
+machine learning is a subset of artificial
+intelligence AI that involves teaching machines
+to learn from data and improve their performance
+over time ml algorithms use statistical techniques
+to enable machines to identify patterns and
+make predictions without being explicitly
+programmed there are three main types of ml
+supervised learning unsupervised learning
+and reinforcement learning supervised learning
+and supervised learning machines are trained
+on label data meaning that the data is already
+categorized or classified the machine learns
+to recognize patterns in the label data and
+can then use that knowledge to make predictions
+about new unlabeled data unsupervised learning
+in unsupervised learning machines are trained
+on unlabeled data meaning that the data is
+not categorized or classified the machine
+learns to identify patterns and relationships
+in the data without any prior knowledge of
+what the data represents reinforcement learning
+in reinforcement learning machines learn by
+interacting with an environment and receiving
+feedback in the form of Rewards or penalties
+the machine learns to make decisions that
+maximize its reward and minimize its penalties
+over time machine learning is used in various
+applications such as image and speech recognition
+natural language processing and predictive
+modeling ml algorithms can also be used for
+anomaly detection fraud detection and recommendation
+systems
+supervised learning is a type of machine learning
+where machines are trained on label data meaning
+that the data is already categorized or classified
+the machine learns to recognize patterns in
+the label data and can then use that knowledge
+to make predictions about new unlabeled data
+supervised learning can be further classified
+into two categories classification and regression
+classification and classification the goal
+is to predict the category or class that a
+new observation belongs to for example a spam
+filter might be trained to classify emails
+as either spam or non-spam regression in regression
+the goal is to predict a numerical value for
+a new observation for example a regression
+model might be trained to predict the price
+of a house based on its features such as size
+location and number of bedrooms supervised
+learning algorithms include decision trees
+random forests support Vector machines and
+neural networks these algorithms are trained
+on a subset of the label data known as the
+training set and their performance is evaluated
+on another subset of the label data known
+as the validation set or test set supervised
+learning is used in various applications such
+as image and speech recognition natural language
+processing and recommendation systems it has
+the potential to improve decision making and
+automate tasks in various fields
+unsupervised learning is a type of machine
+learning where machines are trained on unlabeled
+data meaning that the data is not categorized
+or classified the machine learns to identify
+patterns and relationships in the data without
+any prior knowledge of what the data represents
+unsupervised learning can be further classified
+into two categories clustering and Association
+clustering and clustering the goal is to group
+similar data points together based on their
+features or attributes for example a clustering
+algorithm might be used to group customers
+based on their purchasing Behavior Association
+in association the goal is to find patterns
+or associations between different features
+or attributes of the data for example an association
+rule mining algorithm might be used to identify
+which products are frequently purchased together
+unsupervised learning algorithms include k-means
+clustering hierarchical clustering and principle
+component analysis these algorithms are train
+on the unlabeled data and their performance
+is evaluated based on their ability to identify
+patterns and relationships in the data unsupervised
+learning is used in various applications such
+as anomaly detection Market Basket analysis
+and data compression it has the potential
+to identify hidden patterns in data and provide
+insights into complex systems [Music] reinforcement
+learning is a type of machine learning where
+machines learn by interacting with an environment
+and receiving feedback in the form of Rewards
+or penalties the machine learns to make decisions
+that maximize its reward and minimize its
+penalties over time reinforcement learning
+involves an agent a set of possible actions
+and an environment the agent chooses an action
+and the environment responds by providing
+a reward or penalty based on the action the
+agent learns to optimize its actions over
+time by maximizing its reward and minimizing
+its penalty reinforcement learning algorithms
+include Q learning policy gradients and actor
+critic algorithms these algorithms are trained
+through trial and error as the agent learns
+to explore the environment and optimize its
+actions based on the feedback it receives
+reinforcement learning is used in various
+applications such as robotics game playing
+and autonomous driving it has the potential
+to create intelligent systems that can learn
+and adapt to new situations
+machine learning has become an integral part
+of various Industries including Healthcare
+Finance retail and entertainment Sheen learning
+algorithms can analyze large amounts of data
+and identify patterns that can be used to
+make predictions automate tasks and improve
+decision making some of the key applications
+of machine learning are as follows image and
+speech recognition machine learning algorithms
+can identify and classify images and speech
+they can be used to develop applications such
+as facial recognition Voice assistance and
+image search engines natural language processing
+machine learning algorithms can analyze and
+understand human language they can be used
+to develop applications such as chat Bots
+sentiment analysis and language translation
+predictive modeling machine learning algorithms
+can make predictions based on historical data
+they can be used to develop applications such
+as fraud detection custom return prediction
+and credit scoring recommendation systems
+machine learning algorithms can analyze user
+behavior and provide personalized recommendations
+they can be used to develop applications such
+as product recommendations content recommendations
+and music recommendations autonomous vehicles
+machine learning algorithms can enable vehicles
+to drive themselves by analyzing sensor data
+and making decisions in real time they can
+be used to develop applications such as self-driving
+cars drones and robots
+deep learning is a subset of machine learning
+that involves training algorithms to recognize
+patterns and make decisions based on data
+it is based on the concept of artificial mural
+networks which are inspired by the structure
+and function of the human brain deep learning
+algorithms are designed to process large amounts
+of data identify patterns and make predictions
+or decisions based on the patterns this is
+done through the use of artificial neural
+networks which are composed of layers of interconnected
+nodes each node in a neural network performs
+a simple mathematical operation and the output
+of one node is used as the input for the next
+node in the network the layers in the network
+are trained to recognize different features
+of the input data and the output of the network
+is a prediction or decision based on the patterns
+identified in the input data deep learning
+has been successful in various applications
+such as image and speech recognition natural
+language processing and autonomous vehicles
+it has enabled the development of systems
+that can learn adapt and make decisions on
+their own without the need for explicit programming
+deep learning algorithms include convolutional
+neural networks cnns recurrent neural networks
+rnns and deep belief networks bbns these algorithms
+have multiple layers of nodes which enable
+them to process more complex data and make
+more accurate predictions foreign
+networks are a key component of deep learning
+algorithms they are composed of layers of
+interconnected nodes which are modeled after
+the neurons in the human brain the basic unit
+of a neural network is a node which receives
+input from other nodes or external sources
+performs a mathematical operation on the input
+and produces an output nodes are arranged
+in layers with each layer processing a different
+aspect of the input data the input layer receives
+data from the external World such as images
+text or sound the output layer produces the
+final result such as a classification or prediction
+in between the input and output layers there
+can be one or more hidden layers that process
+the input data to identify relevant features
+and patterns neural networks are trained using
+a process called back propagation where the
+error between the predicted output and the
+actual output is propagated backward through
+the layers of the network and the weights
+of the connections between nodes are adjusted
+to minimize the error there are various types
+of neural networks used in deep learning including
+feed forward neural networks convolutional
+neural networks and recurrent neural networks
+each type of network is suited for different
+types of tasks such as image recognition natural
+language processing and time series analysis
+convolutional neural networks cnns are a type
+of neural network commonly used in deep learning
+for image and video recognition as well as
+other tasks involving spatial data cnns are
+designed to process data with a grid-like
+topology such as images by exploiting the
+spatial correlation of the data cnns are composed
+of multiple layers including convolutional
+layers pooling layers and fully connected
+layers in convolutional layers the network
+performs a convolution operation on the input
+data using a set of filters or kernels the
+output of each filter is a feature map that
+highlights a particular aspect of the input
+data such as edges textures or shapes in pooling
+layers the network reduces the spatial size
+of the feature maps by down sampling which
+helps to reduce the number of parameters and
+computational complexity of the network in
+fully connected layers the network performs
+a traditional neural network work operation
+where each neuron in the layer is connected
+to every neuron in the previous layer CNN
+are trained using back propagation where the
+error between the predicted output and actual
+output is propagated backward through the
+layers of the network and the weights of the
+connections between nodes are adjusted to
+minimize the error cnns have been successful
+in various applications such as image and
+speech recognition object detection and autonomous
+vehicles they have enabled the development
+of systems that can recognize and classify
+complex patterns in images and videos with
+high accuracy and speed
+[Music] recurrent neural networks rnns are
+a type of neural network commonly used in
+deep learning for sequential data such as
+time series data or natural language text
+RNN are designed to process data with temporal
+dependencies where the output at one time
+step depends on the output of previous time
+steps RNN are composed of multiple layers
+with each layer processing one-time step of
+the input data the output of each layer is
+passed as input to the next layer creating
+a feedback loop that allows the network to
+learn from previous time steps the basic unit
+of an RNN is a cell which contains a hidden
+state that is updated at each time step based
+on the input and previous hidden state the
+output of the cell is passed to the next time
+step as input and the hidden state is used
+to capture the temporal dependencies of the
+input data RNN are trained using back propagation
+through time where the error between the predicted
+output and actual output is propagated backward
+through the layers of the network and the
+weights of the connections between nodes are
+adjusted to minimize the error RNN have been
+successful in various applications such as
+speech recognition natural language processing
+and time series analysis they have enabled
+the development of systems that can generate
+text translate languages and predict future
+values based on past values foreign
+ing has enabled the development of intelligent
+systems that can learn adapt and make decisions
+on their own without the need for explicit
+programming it has been successful in various
+applications such as image and speech recognition
+natural language processing and autonomous
+vehicles one of the most prominent applications
+of deep learning is image and speech recognition
+deep learning algorithms such as convolutional
+neural networks CNN have achieved state-of-the-art
+performance on image recognition tasks such
+as object detection and image classification
+similarly recurrent neural networks RNN have
+been successful in speech recognition tasks
+such as speech to text conversion another
+important application of deep learning is
+natural language processing NLP deep learning
+algorithms such as long short-term memory
+lstm networks have been successful in various
+NLP tasks such as sentiment analysis text
+classification and named entity recognition
+deep learning has also enabled the development
+of autonomous vehicles which can perceive
+and respond to their environment without human
+intervention deep learning algorithms such
+as cnns and rnns are used for tasks such as
+object detection Lane detection and trajectory
+planning in addition deep learning has been
+used in various Fields such as Healthcare
+finance and cyber security for example deep
+learning algorithms have been used to diagnose
+diseases from medical images predict stock
+prices and detect fraudulent transactions
+natural language processing NLP is a subfield
+of artificial intelligence that focuses on
+enabling computers to understand interpret
+and generate human language it involves the
+development of algorithms and models that
+can analyze and manipulate natural language
+data such as text speech and dialogue NLP
+is used in various applications such as chat
+Bots virtual assistants sentiment analysis
+text classification and machine translation
+it involves various tasks such as syntactic
+analysis semantic analysis and discourse analysis
+syntactic analysis involves the study of the
+grammatical structure of sentences such as
+parts of speech sentence structure and syntax
+semantic analysis involves the study of the
+meaning of words in their relationships such
+as Word Sense disambiguation and named entity
+recognition discourse analysis involves the
+study of the structure and coherence of text
+such as topic modeling and summarization NLP
+algorithms and models are typically based
+on machine learning and deep learning techniques
+such as convolutional neural networks CNN
+and recurrent neural networks RNN these algorithms
+and models are trained on large data sets
+of natural language data such as corpora and
+annotated data sets to learn patterns and
+relationships in the data
+natural language processing NLP has various
+applications in different fields including
+Healthcare education finance and customer
+service sentiment analysis sentiment analysis
+involves the analysis of Text data to determine
+the sentiment of the text whether it is positive
+negative or neutral it is used in various
+applications such as social media monitoring
+customer feedback analysis and market research
+machine translation machine translation involves
+the automatic translation of text from one
+language to another it is used in various
+applications such as language learning communication
+and cross-border e-commerce chat Bots and
+virtual assistants chat Bots and virtual assistants
+are intelligent agents that can interact with
+users in natural language they are used in
+various applications such as customer service
+personal assistance and sales support named
+entity recognition named entity recognition
+ner involves the identification and classification
+of named entities in text into predefined
+categories such as person organization location
+and date it is used in various applications
+such as information extraction document classification
+and question answering text summarization
+text summarization involves the extraction
+of key information from Text data and presenting
+it in a condensed form it is used in various
+applications such as news article summarization
+document summarization and email summarization
+text classification text classification involves
+the categorization of text into predefined
+categories or classes it is used in various
+applications such as sentiment analysis topic
+modeling and spam filtering
+computer vision is a subfield of artificial
+intelligence that teaches machines to interpret
+and understand visual data from the world
+around us it has been an active area of research
+for many years and has made significant progress
+in recent years computer vision has a wide
+range of applications from self-driving cars
+to facial recognition and medical image analysis
+computer vision involves processing visual
+data such as images and videos to extract
+useful information this information can then
+be used to perform a variety of tasks such
+as recognizing objects detecting faces and
+tracking movements
+image recognition is a fundamental task in
+computer vision it involves identifying objects
+or patterns within an image machine learning
+algorithms are trained on large data sets
+of labeled images to recognize different objects
+and patterns
+object detection is a more complex task that
+involves identifying specific objects within
+an image and drawing bounding boxes around
+them this task requires the use of advanced
+algorithms such as YOLO you only look once
+and rcnn region-based convolutional neural
+networks
+semantic segmentation is another advanced
+task in computer vision that involves assigning
+a label to each pixel in an image this task
+requires the use of deep learning techniques
+such as fully convolutional Networks fcn
+computer vision involves the use of various
+machine learning and deep learning techniques
+to analyze and interpret visual data convolutional
+neural networks cnns are the most commonly
+used deep learning technique in computer vision
+they consist of layers of interconnected neurons
+that can learn to recognize specific features
+in an image other deep learning techniques
+used in computer vision include recurrent
+neural networks RNN generative adversarial
+networks Gan and deep reinforcement learning
+computer vision faces several challenges including
+noisy low quality and large-scale data another
+challenge is ensuring that the algorithms
+used in computer vision are robust to changes
+in lighting conditions scale and rotation
+[Music] computer vision has a wide range of
+applications in different Industries including
+Healthcare security and Manufacturing in healthcare
+computer vision is used to analyze medical
+images and assist in the diagnosis of diseases
+insecurity computer vision is used for facial
+recognition and object detection to improve
+Public Safety in manufacturing computer vision
+is used for quality control and defect detection
+in production lines
+[Music] Robotics and AI are two closely related
+fields that are working together to create
+Advanced robotic systems that can perform
+tasks autonomously [Music] a robotic system
+consists of several key components including
+sensors actuators and control systems sensors
+are used to detect and measure the physical
+world while actuators are used to manipulate
+it control systems are used to interpret sensor
+data and provide commands to the actuators
+AI algorithms are used to provide decision-making
+capabilities to the control system the AI
+algorithms take in sensor data and provide
+commands to the control system to determine
+how the robotic system should act
+there are many different types of robots each
+with their own unique set of challenges some
+examples of robots include industrial robots
+these robots are used in manufacturing and
+perform tasks such as welding painting and
+assembly autonomous robots these robots are
+used in environments that are dangerous or
+difficult for humans to operate in for example
+autonomous robots can be used in space exploration
+where humans cannot survive without life support
+social robots these robots are designed to
+interact with humans and provide assistance
+or companionship for example social robots
+can be used in healthcare settings to help
+patients with tasks or provide companionship
+one of the key challenges in the field of
+Robotics and AI is the need for reliable and
+accurate performance this requires the development
+of sophisticated algorithms and control systems
+as well as the use of advanced sensing Technologies
+and Hardware another challenge is the ethical
+implications associated with Advanced robotic
+systems for example there are concerns about
+the potential for job displacement as robots
+become more advanced and are able to perform
+tasks that were previously done by humans
+there's also a need to ensure safety and accountability
+in autonomous systems as robots become more
+intelligent and autonomous there is a risk
+of unintended consequences if they are not
+programmed correctly as the use of advanced
+robotic systems becomes more widespread there
+are ethical implications that must be considered
+one of the key ethical concerns is the potential
+for job displacement as robots become more
+advanced and are able to perform tasks that
+were previously done by humans another ethical
+concern is the potential for unintended consequences
+if robots are not programmed correctly for
+example a self-driving car may make a decision
+that is harmful to humans if it is not programmed
+to prioritize human safety
+as Robotics and artificial intelligence AI
+continue to advance the potential applications
+of these Technologies are becoming increasingly
+diverse and exciting let's explore some of
+the potential future applications of Robotics
+and AI one potential application of Robotics
+and AI is in the development of Smart Homes
+Smart Homes are homes that are equipped with
+sensors cameras and other technologies that
+allow for remote monitoring and control of
+various systems and appliances for example
+a smart home could be equipped with a robotic
+vacuum cleaner that automatically cleans the
+floors when the homeowner is away in addition
+Smart Homes could be equipped with ai-powered
+personal assistance that can help with tasks
+such as scheduling appointments and ordering
+groceries another potential application of
+Robotics and AI is in the healthcare industry
+robots and AI systems could be used to monitor
+patients and provide assistance with tasks
+such as administering medication and providing
+physical therapy for example a robot could
+be used to monitor a patient's Vital Signs
+and alert Health Care Providers if there are
+any changes that require attention in addition
+robots could be used to assist with physical
+therapy exercises providing patients with
+personalized feedback and guidance
+robots and AI systems could also have a significant
+impact on Transportation self-driving cars
+and trucks are already being developed and
+tested and these systems have the potential
+to greatly reduce accidents and improve traffic
+flow in addition robots could be used for
+tasks such as package delivery reducing the
+need for human drivers and improving efficiency
+finally Robotics and AI could play a significant
+role in space exploration robots could be
+used to explore the surface of other planets
+and moons collecting samples and conducting
+experiments in addition robots could be used
+to build and maintain infrastructure on other
+planets making it possible for humans to live
+and work in space for extended periods of
+time [Music] artificial intelligence AI is
+rapidly transforming the job market with some
+jobs becoming automated and new jobs emerging
+that require AI skills while AI has the potential
+to improve efficiency and productivity in
+many Industries it is also creating concerns
+about Job displacement and the need for new
+skill sets
+one of the most significant impacts of AI
+unemployment is the potential for job displacement
+as AI becomes more advanced it has the ability
+to automate tasks that were previously performed
+by humans such as data entry customer service
+and Manufacturing this has led to concerns
+about the loss of jobs and the need for workers
+to acquire new skills in order to remain employable
+however it is important to note that while
+AI may lead to job displacement in certain
+industries it is also creating new job opportunities
+in other areas such as AI development and
+data analysis Sai continues to evolve it is
+creating new job opportunities that require
+specialized skills in AI development data
+analysis and machine learning these jobs are
+in high demand and offer High salaries making
+them an attractive career choice for many
+workers in addition AI is also creating new
+job opportunities in industries that are leveraging
+AI to improve efficiency and productivity
+for example in the healthcare industry a power
+tools are being used to improve patient outcomes
+and reduce costs creating new job opportunities
+for healthcare professionals who have expertise
+in AI as AI continues to transform the job
+market it is also creating a need for new
+skill sets workers who are able to adapt to
+these changes and acquire new skills will
+be better positioned to remain employable
+in the future some of the skills that are
+in high demand in the AI job market include
+programming languages such as Python and our
+data analysis and machine learning skills
+an experience with AI development Frameworks
+such as tensorflow and Keras in order to address
+the need for new skills in the AI job market
+many companies and organizations are implementing
+upskilling and reskilling programs for their
+employees these programs provide workers with
+the opportunity to acquire new skills and
+stay competitive in the job market in addition
+governments and educational institutions are
+also implementing programs to support the
+development of AI skills for example in the
+United States the National Science Foundation
+has launched a program to support the development
+of AI skills and promote AI research [Music]
+artificial intelligence is transforming the
+healthcare industry by improving patient outcomes
+reducing costs and streamlining administrative
+tasks from diagnosis to treatment AI is being
+used to enhance the accuracy and efficiency
+of Health Care Services foreign is being used
+to improve the accuracy and speed of medical
+diagnosis and treatment machine learning algorithms
+can analyze large data sets of medical information
+and identify patterns that may be difficult
+for humans to detect this can help Health
+Care Professionals to make more accurate diagnoses
+and develop personalized treatment plans for
+patients in addition AI power tools such as
+virtual assistants and chat Bots are being
+used to improve patient engagement and adherence
+to treatment plans these tools can provide
+patients with personalized guidance and support
+improving their overall health care outcomes
+AI is also being used to enhance Medical Imaging
+such as x-rays CT scans and MRIs machine learning
+algorithms can analyze images and identify
+abnormalities that may be difficult for human
+Radiologists to detect this can lead to more
+accurate diagnoses and faster treatment for
+patients in addition AI power tools such as
+computer aided detection CAD systems can analyze
+medical images in real time helping to improve
+the efficiency of Medical Imaging services
+AI is being used to predict and prevent health
+issues before they become serious machine
+learning algorithms can analyze patient data
+and identify individuals who may be at risk
+of developing certain health conditions this
+can help Health Care Professionals to intervene
+early and provide preventative care to patients
+in addition AI power tools such as wearables
+and health monitoring apps can track patient
+data in real time providing patients with
+personalized Health recommendations and alerts
+when their health status changes AI is also
+being used to streamline administrative tasks
+in the healthcare industry a power tools such
+as chat Bots and virtual assistants can handle
+routine administrative tasks such as appointment
+scheduling and prescription refills freeing
+up Healthcare professionals to focus on more
+complex tasks in addition AI power tools such
+as electronic health records ehrs can improve
+the accuracy and accessibility of patient
+data reducing administrative errors and improving
+patient outcomes as AI continues to transform
+the healthcare industry there are ethical
+considerations that must be taken into account
+one of the biggest concerns is the potential
+for AI to perpetuate biases in health care
+for example if AI algorithms are trained on
+data sets that are biased against certain
+populations this can lead to inaccurate diagnoses
+and treatment plans for those populations
+in addition there are concerns about the security
+and privacy of patient data as a power tools
+collect and analyze large amounts of patient
+data it is important to ensure that this data
+is secure and protected from unauthorized
+access
+[Music] artificial intelligence is transforming
+the field of Education by providing personalized
+learning experiences automating administrative
+tasks and improving educational outcomes [Music]
+AI is being used to provide personalized learning
+experiences for students machine learning
+algorithms can analyze student data and identify
+individual learning styles and preferences
+this can help Educators to create tailored
+lesson plans that meet the needs of each student
+in addition AI powered tools such as chat
+Bots and virtual assistants can provide students
+with personalized guidance and support helping
+them to stay engaged and motivated AI is also
+being used to automate administrative tasks
+in the education sector AI power tools such
+as chat Bots and virtual assistants can handle
+routine administrative tasks such as scheduling
+grading and student communication this can
+free up Educators to focus on more important
+tasks such as lesson planning and student
+support
+AI is being used to improve educational outcomes
+by providing Educators with real-time insights
+into student Performance Machine learning
+algorithms can analyze student data and provide
+Educators with actionable insights into areas
+where students may be struggling this can
+help Educators to provide targeted support
+and intervention to students who need it most
+in addition AI power tools such as adaptive
+Learning Systems can help students to learn
+at their own pace and in their own way improving
+their overall educational outcomes
+Sai continues to transform the education sector
+there are ethical considerations that must
+be taken into account one of the biggest concerns
+is the potential for AI to perpetuate biases
+in education for example if AI algorithms
+are trained on data sets that are biased against
+certain populations this can lead to inaccurate
+assessments of student performance and perpetuate
+inequalities in the education system in addition
+there are concerns about the privacy and security
+of student data as a power tools collect and
+analyze large amounts of student data it is
+important to ensure that this data is secure
+and protected from unauthorized access
+artificial intelligence has the potential
+to improve Social Justice by promoting fairness
+and equity in decision-making processes however
+there are also concerns that AI can perpetuate
+biases and inequalities further exacerbating
+social injustices AI can help to promote fairness
+and Equity by providing objective and data-driven
+decision-making for example AI can be used
+to remove subjective biases from hiring Decisions
+by analyzing resumes and identifying the most
+qualified candidates based on their skills
+and experience in addition AI can be used
+to identify and eliminate discriminatory practices
+in decision-making processes such as loan
+approvals and criminal justice sentencing
+while AI has the potential to promote fairness
+and Equity there are concerns that it can
+perpetuate biases and inequalities if not
+properly designed and implemented for example
+if AI algorithms are trained on bias data
+sets this can lead to discriminatory decision
+making to address this it is important to
+ensure that AI algorithms are designed to
+be transparent and accountable with human
+oversight to identify and address biases another
+concern with AI is the potential for it to
+exacerbate existing inequalities by favoring
+those with access to technology and data for
+example if AI is used in hiring decisions
+it may disadvantage those who do not have
+access to technology or who have limited access
+to Education and Training to address this
+it is important to ensure that AI is accessible
+to everyone and that its benefits are shared
+equitably Sai is increasingly used to address
+social justice issues there are ethical considerations
+that must be taken into account one of the
+biggest concerns is the potential for AI to
+perpetuate systemic biases and inequalities
+if not designed and implemented properly in
+addition there are concerns about the potential
+for AI to be used to violate privacy rights
+and personal freedoms particularly in the
+criminal justice system [Music]
+as AI continues to evolve and become more
+advanced it is important to consider the possibilities
+it presents and the challenges that come with
+them let's discover how we can ensure that
+AI is developed and used in a way that benefits
+Humanity
+artificial intelligence is rapidly changing
+the world we live in and the pace of progress
+shows no signs of slowing down many experts
+believe that AI will continue to transform
+Society in the coming years with significant
+implications for both individuals and businesses
+one of the most significant areas of growth
+for AI is in the field of Robotics and automation
+as AI becomes more advanced it will be able
+to perform more complex tasks such as driving
+cars and flying airplanes this could lead
+to significant changes in the workforce as
+many jobs that are currently done by humans
+may be automated in the future AI is already
+being used to improve personalization and
+customization in a variety of industries from
+Healthcare to retail in the future AI will
+be able to use vast amounts of data to create
+highly personalized experiences for individuals
+whether it's in the form of personalized Medical
+Treatments or customized products and services
+AI is already being used to make predictions
+and analyze data in a variety of industries
+from Finance to Marketing in the future AI
+will become even more accurate and reliable
+with the ability to analyze massive amounts
+of data in real time [Music] as AI continues
+to advance it will become more efficient and
+productive leading to significant cost savings
+and increased profitability for businesses
+this will also lead to Greater convenience
+and ease for individuals as AI will be able
+to automate many routine tasks and provide
+more personalized and efficient services
+in the future AI will enable humans to collaborate
+more effectively with machines leading to
+new Innovations and breakthroughs in a variety
+of fields for example AI could be used to
+help humans design more efficient and effective
+products or to develop new drugs and Medical
+Treatments
+as AI becomes more advanced and integrated
+into our daily lives there will be significant
+ethical considerations that must be taken
+into account for example there are concerns
+about the potential for AI to be used to violate
+privacy rights and personal freedoms or to
+perpetuate biases and inequalities foreign
+the concept of Singularity and AI super intelligence
+has been a popular topic of discussion among
+scientists and futurists in recent years the
+idea is that artificial intelligence becomes
+more advanced it could eventually lead to
+a point where machines surpass human intelligence
+and we enter a new era of technological progress
+and possibility
+Singularity refers to the hypothetical moment
+in the future when machines become smarter
+than humans this could occur in a variety
+of ways such as through the development of
+a super intelligent AI or the merging of human
+and machine intelligence some scientists and
+futurists believe that the singularity could
+represent a major turning point in human history
+with the potential to solve some of the world's
+most pressing problems such as climate change
+and disease however others have raised concerns
+about the potential dangers of the singularity
+such as the loss of human control over Advanced
+machines [Music] AI super intelligence refers
+to an artificial intelligence that surpasses
+human intelligence in every possible way this
+could include things like problem-solving
+ability creativity and emotional intelligence
+the development of AI super intelligence is
+seen by many as the key to unlocking the full
+potential of AI and ushering in a new era
+of progress and Innovation however there are
+also significant concerns about the potential
+risks associated with super intelligent AI
+such as the possibility that machines could
+become uncontrollable or turn against humans
+the concept of the singularity and AI super
+intelligence is highly controversial with
+experts divided over the potential benefits
+and risks of advanced AI some argue that the
+singularity represents a potential golden
+age of human progress While others fear that
+it could lead to catastrophic consequences
+for Humanity one of the main concerns about
+the singularity and AI super intelligence
+is the potential for machines to become uncontrollable
+or act in unpredictable ways this could be
+particularly dangerous if machines are used
+for military or security purposes another
+concern is the potential for machines to replace
+humans in many areas of work leading to widespread
+job displacement and economic disruption
+the development of AI super intelligence is
+still a long way off and there are many challenges
+that must be overcome before we reach that
+point however it is clear that AI will continue
+to play an increasingly important role in
+our lives and it is important to consider
+under the ethical and societal implications
+of this technology the concept of the singularity
+in AI super intelligence is an intriguing
+one with the potential to revolutionize the
+way we live and work however it is important
+to consider the potential risks and ethical
+implications of advanced Ai and to ensure
+that we develop and implement this technology
+in a responsible and accountable way foreign
+telligence continues to develop at a rapid
+Pace many people are wondering what the role
+of humans will be in an AI driven World some
+are concerned that AI will eventually replace
+humans in many areas of work and life While
+others believe that humans will always play
+a vital role in shaping the direction and
+impact of AI [Music] while AI is capable of
+many impressive Feats there are certain areas
+where humans still have a significant Advantage
+for example humans excel at tasks that require
+creativity empathy and social interaction
+while AI is better suited for tasks that require
+data processing analysis and pattern recognition
+as such many experts believe that the best
+way to ensure a positive future for AI is
+to focus on developing a symbiotic relationship
+between humans and machines where each can
+contribute their unique strengths to solve
+complex problems and create new opportunities
+as AI continues to evolve it is likely that
+new opportunities will emerge for humans to
+work alongside Advanced machines in a variety
+of fields for example in the healthcare sector
+AI is being used to improve Diagnostics and
+treatment options but human doctors and nurses
+still play a critical role in providing care
+and support to patients likewise in the business
+World AI can be used to analyze data and make
+predictions about future Trends but human
+managers and Executives still play a key role
+in making decisions and developing strategies
+as AI becomes more integrated into our lives
+it is important to consider the ethical implications
+of this technology for example who is responsible
+if an AI system makes a mistake or causes
+harm how do we ensure that AI is developed
+and used in a way that is fair and just for
+all people it is clear that humans will play
+a critical role in developing and implementing
+ethical standards for AI and ensuring that
+this technology is used in a way that benefits
+society as a whole thank you while the potential
+benefits of AI are vast there are also significant
+challenges that must be addressed in order
+to ensure a positive future for this technology
+for example how do we ensure that AI is developed
+in a way that is transparent and accountable
+how do we ensure that AI is used in a way
+that is fair and Equitable for all people
+these challenges will require collaboration
+and cooperation between governments businesses
+and individuals as we work to develop a shared
+vision for the future of AI [Music] as Humanity
+continues to explore space and search for
+signs of extraterrestrial life artificial
+intelligence is becoming an increasingly important
+tool in this endeavor from robotic explorers
+to satellite networks AI is helping us to
+collect and analyze data from some of the
+most distant and inhospitable regions of our
+solar system and beyond [Music] one of the
+most obvious applications of AI in space exploration
+is in the development of robotic explorers
+these machines are designed to operate autonomously
+in extreme environments such as the surface
+of Mars or the icy moons of Jupiter by using
+AI algorithms these robots can make decisions
+in real time adapt to changing conditions
+and even learn from their experiences to improve
+their performance over time this allows us
+to explore areas that would be too dangerous
+or difficult for human astronauts while still
+Gathering valuable data and insights about
+our solar system [Music] in addition to robotic
+explorers AI is also being used to develop
+autonomous spacecraft that can navigate through
+space and perform complex tasks without human
+intervention for example NASA's deep space
+Network uses AI to manage a network of satellites
+and ground stations ensuring that data is
+transmitted efficiently and effectively across
+vast distances this type of Technology will
+become increasingly important as we continue
+to explore deeper into space where communication
+delays and other challenges make it difficult
+to control spacecraft in real time
+as the demand for Rare Minerals and resources
+continues to grow on Earth some companies
+are turning to space mining as a potential
+Solution by mining asteroids and other celestial
+bodies we could potentially access vast quantities
+of valuable resources without the environmental
+impact of traditional mining AI is likely
+to play a key role in this endeavor as it
+will be necessary to develop autonomous mining
+machines that can operate in Low Gravity environments
+and navigate complex terrain with precision
+one of the most exciting applications of AI
+in space exploration is in the search for
+extraterrestrial life by analyzing data from
+telescopes and other sensors AI algorithms
+can help us to identify patterns and anomalies
+that could indicate the presence of life on
+other planets or Moons for example NASA's
+Kepler Mission used AI to analyze data from
+thousands of stars identifying potential candidates
+for exoplanets and other interesting phenomena
+as AI continues to evolve it is likely that
+we will be able to detect even more subtle
+signals that could indicate the presence of
+life elsewhere in the universe AI is rapidly
+becoming a critical tool in space exploration
+allowing us to collect and analyze data from
+some of the most remote and hostile environments
+in our solar system and beyond whether we
+are exploring the surface of Mars searching
+for extraterrestrial life or mining Asteroids
+for resources AI will play a vital role in
+helping us to achieve our goals and Advance
+our understanding of the universe [Music]
+as AI continues to advance and become more
+integrated into our daily lives it is becoming
+increasingly important to consider the ethical
+and governance implications of these Technologies
+from privacy concerns to potential biases
+in decision-making algorithms there are a
+wide range of issues that need to be addressed
+in order to ensure that AI is used in a responsible
+and ethical manner [Music] one of the most
+pressing concerns around AI is the potential
+for these Technologies to invade our privacy
+as AI systems become more sophisticated and
+able to analyze vast amounts of data there
+is a risk that they could be used to monitor
+our Behavior track our movements and collect
+sensitive personal information without our
+consent to address this issue it is important
+to establish clear guidelines around the collection
+storage and use of personal data companies
+and organizations that use AI should be required
+to obtain explicit consent from individuals
+before collecting their data and should be
+held accountable for any misuse of that data
+[Music] another concern with AI is the potential
+for these systems to exhibit biases in decision
+making this can occur when the algorithms
+used in AI are based on biased data or assumptions
+leading to unfair or discriminatory outcomes
+to mitigate this risk it is important to develop
+AI systems that are transparent and accountable
+this means providing visibility into the data
+and algorithms that are used in these systems
+in establishing clear standards for assessing
+the fairness and accuracy of their outputs
+[Music] one of the challenges with AI is the
+difficulty of assigning accountability when
+something goes wrong because these systems
+are often complex and involve multiple stakeholders
+it can be difficult to determine who is responsible
+for any negative outcomes that arise to address
+this issue it is important to establish clear
+lines of accountability and responsibility
+for AI systems this can include creating regulatory
+Frameworks that hold companies and organizations
+accountable for the actions of their AI systems
+as well as developing processes for investigating
+and resolving disputes or issues that arise
+as AI becomes more pervasive and impacts more
+aspects of Our Lives it is important to consider
+how these Technologies should be governed
+this includes questions around how AI systems
+should be regulated who should have access
+to them and how their use should be monitored
+to address these issues it is important to
+engage in open and transparent discussions
+around the governance of AI this includes
+working with stakeholders from a wide range
+of backgrounds including government officials
+industry leaders and experts in ethics and
+Technology to develop Frameworks that balance
+Innovation with responsible use [Music]
+artificial intelligence is already starting
+to impact our daily lives in a variety of
+ways and this trend is only going to continue
+in the coming years from the algorithms that
+power our social media feeds to The Voice
+assistance we use to control our homes AI
+is becoming increasingly ubiquitous and integrated
+into our daily routines one of the most significant
+ways that AI is impacting Our Lives is through
+the way we interact with technology advances
+in natural language processing and computer
+vision have made it possible to interact with
+technology in a more intuitive and human-like
+way allowing us to accomplish tasks more quickly
+and efficiently than ever before AI is also
+transforming the way we work in Industries
+ranging from Finance to Health Care AI is
+being used to automate repetitive tasks and
+improve efficiency allowing workers to focus
+on more complex and high-level tasks this
+has the potential to create new opportunities
+for workers and drive economic growth in the
+home AI is already being used to control a
+variety of devices and appliances Voice assistance
+like Amazon's Alexa and Google Assistant are
+becoming increasingly popular allowing us
+to control our lights thermostats and entertainment
+systems with simple voice commands in the
+future we may see even more sophisticated
+AI systems that can anticipate our needs and
+preferences making our homes more comfortable
+and convenient of course as with any new technology
+there are also potential downsides to the
+increased use of AI in our daily lives one
+concern is that AI systems may be used to
+manipulate or deceive us either through targeted
+advertising or by presenting us with biased
+information there is also a risk that AI systems
+may be used to replace human workers leading
+to job loss and economic disruption as we
+move forward into a future that is increasingly
+defined by AI it is important to consider
+both the potential benefits and the potential
+risks of these Technologies by doing so we
+can work to ensure that AI is used in a responsible
+and ethical manner that benefits society as
+a whole foreign [Music]
+becomes increasingly integrated into our daily
+lives in the global economy it is important
+for individuals to understand both the opportunities
+and challenges that this technology presents
+on one hand AI has the potential to create
+new jobs and opportunities in a variety of
+Industries while on the other hand it may
+also lead to job displacement and economic
+disruption one of the biggest opportunities
+presented by AI is the potential for increased
+productivity and efficiency by automating
+repetitive tasks and providing insights based
+on vast amounts of data AI can help workers
+to focus on higher level tasks that require
+creativity and problem solving skills this
+can lead to Greater job satisfaction and more
+fulfilling careers another opportunity presented
+by AI is the potential for Innovation and
+Entrepreneurship as AI continues to evolve
+and become more sophisticated there will likely
+be new opportunities for individuals and businesses
+to create Innovative products and services
+that leverage this technology however there
+are also several challenges that individuals
+may face in an AI driven future one of the
+most significant challenges is the potential
+for job displacement Sai systems become more
+advanced they may be able to perform tasks
+that were previously done by humans leading
+to job loss in certain industries another
+challenge is the potential for bias and discrimination
+in AI systems if AI algorithms are trained
+on biased data they may perpetuate and even
+amplify existing social inequalities it is
+important for individuals to be aware of these
+issues and work to ensure that AI systems
+are designed and implemented in an ethical
+and responsible manner finally there is also
+a concern that AI may be used to invade our
+privacy and monitor our Behavior as AI becomes
+more integrated into our homes and workplaces
+it is important for individuals to understand
+the implications of this technology and take
+steps to protect their personal data
+as AI becomes increasingly integrated into
+our daily lives it is important for individuals
+to prepare for the changes and challenges
+that this technology presents here are some
+steps that individuals can take to prepare
+for an AI driven future [Music] as AI becomes
+more prevalent there will likely be an increased
+demand for individuals with technical skills
+in areas such as data analysis programming
+and machine learning by developing these skills
+individuals can position themselves for new
+job opportunities and career advancement
+foreign skills are important it is also essential
+for individuals to develop soft skills such
+as creativity problem solving and communication
+these skills will be in high demand as AI
+systems automate more routine tasks and human
+workers focus on higher level activities [Music]
+it is important for individuals to stay up
+to date on the latest developments in Ai and
+the potential implications for their industry
+and career this can involve attending conferences
+reading industry Publications and engaging
+in online forums and communities
+Sai continues to evolve and disrupt various
+Industries individuals must be prepared to
+adapt and learn new skills throughout their
+careers embracing a lifelong learning mindset
+can help individuals stay ahead of the curve
+and remain competitive in the job market
+finally individuals can play a role in shaping
+the future of AI by advocating for ethical
+and responsible development and implementation
+of this technology this can involve engaging
+with policy makers and Industry leaders as
+well as advocating for greater transparency
+and accountability in AI systems
+[Music] as AI becomes more prevalent in various
+Industries there will be a growing demand
+for professionals with specialized Knowledge
+and Skills in this area here are some tips
+for choosing a career path in AI
+AI is a diverse field with many different
+areas of specialization from machine learning
+to computer vision to natural language processing
+start by identifying your strengths and interests
+as this can help you narrow down your options
+and find a career path that aligns with your
+skills and Passions
+depending on your career goals you may need
+to pursue additional education or training
+to develop the skills and knowledge necessary
+to succeed in AI this can involve pursuing
+a degree in computer science data science
+or a related field or taking specialized courses
+or training programs in areas such as machine
+learning or deep learning
+in addition to formal Education and Training
+it is important to gain practical experience
+working with AI Technologies this can involve
+participating in hackathons or competitions
+contributing to open source AI projects or
+completing internships or apprenticeships
+with AI focused companies or organizations
+[Music] the field of AI is rapidly evolving
+and it is important to stay up to date on
+the latest trends and developments this can
+involve attending conferences reading industry
+Publications and engaging with online communities
+and forums
+as AI continues to transform various Industries
+it is important to consider the ethical implications
+of this technology and how it may impact society
+when choosing a career path in AI consider
+how you can contribute to the development
+and implementation of responsible and ethical
+AI systems choosing a career path in AI requires
+a combination of self-reflection Education
+and Training practical experience industry
+knowledge and a commitment to ethical and
+responsible AI development by taking these
+steps individuals can position themselves
+for success in this exciting and rapidly evolving
+field
+as AI Technologies become more prevalent in
+our daily lives it is important for users
+to consider the ethical implications of their
+use AI systems have the potential to impact
+individuals communities and society as a whole
+by considering the ethical implications of
+their use AI users can ensure that they are
+using these Technologies in a responsible
+and ethical manner one ethical consideration
+for AI users is bias and fairness AI systems
+can perpetuate biases and inequalities present
+in society such as racial or gender bias this
+can result in unfair and discriminatory outcomes
+for individuals and groups it is important
+for users to ensure that these systems are
+designed and implemented in a fair and unbiased
+manner this can include using diverse data
+sets auditing AI systems for bias and providing
+feedback mechanisms to address any issues
+another ethical consideration for AI users
+is privacy AI systems often collect and use
+personal data which can raise concerns about
+privacy and data protection users should be
+aware of the data that AI systems are collecting
+and how it is being used and protected this
+can include being informed about what data
+is being collected who has access to it and
+how it is being stored and secured transparency
+is also an important ethical consideration
+for AI users users should have access to information
+about how AI systems work and make decisions
+this can help to build trust and accountability
+and ensure that AI systems are being used
+in a responsible and ethical manner this can
+include providing information about the algorithms
+used how the data is being used to train the
+systems and how decisions are being made safety
+is another important ethical consideration
+for AI users AI systems can have real-world
+impacts such as autonomous vehicles or medical
+diagnosis systems it is important to ensure
+that these systems are safe and reliable and
+that they do not pose a risk to human health
+or safety this can include testing and certification
+processes as well as implementing fail-safes
+and emergency measures in case of system failures
+finally human oversight is an important ethical
+consideration when using AI systems while
+AI systems can be powerful tools they should
+not replace human judgment and oversight it
+is important to ensure that there are mechanisms
+in place for humans to review and intervene
+in AI decisions when necessary this can include
+having human experts involved in the development
+and training of AI systems as well as providing
+users with the ability to challenge and appeal
+AI decisions by considering these ethical
+considerations AI users can ensure that they
+are using these Technologies in a responsible
+and ethical manner this can help to promote
+trust fairness and accountability in the development
+and use of AI systems congratulations you've
+covered so much in this AI course video and
+we hope you found it insightful and inspiring
+if you're eager to dive even deeper into the
+world of artificial intelligence we have some
+fantastic news for you the Cockney Plus app
+offers an incredible AI course that is everything
+you need to become a true expert in this field
+this comprehensive course on the cogni Plus
+app covers a wide range of AI topics from
+the fundamentals to the most cutting-edge
+techniques you'll gain hands-on experience
+and build your skills with real world projects
+while learning from top-notch instructors
+who are passionate about AI don't miss this
+opportunity to enhance your knowledge and
+unlock your potential in the ever-evolving
+world of artificial intelligence download
+the cogni Plus app today and embark on your
+journey towards AI mastery you can find the
+link in the description thank you so much
+for joining us in today's video we hope you've
+enjoyed learning more about the fascinating
+world of artificial intelligence before you
+go please don't forget to like this video
+subscribe to our Channel and hit the notification
+Bell to stay updated on our latest content
+if you have any questions or thoughts feel
+free to leave a comment down below we'd love
+to hear from you once again thank you for
+tuning in and we'll see you in the next video
+Until Then happy learning and stay curious
+all right

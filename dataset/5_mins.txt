@@ -1,0 +1,52 @@
+You've heard the term project management probably many times.
+What is project management?
+It's applying science and art to projects.
+But what is a project?
+A project is a temporary endeavor.
+It has a start.
+and an end.
+And the main goal of this endeavor is to deliver a product, a service, or some other result.
+For example, a lab report, an experiment, a building, software, a service,
+Capability to perform a service A project could be all of these things Getting people together to deliver this end result This end goal could be a very daunting task The PMI talk about the talent triangle You should be aware of technical project management
+the nuts and bolts of project management, you should also be aware of strategic objectives of the firm, you should be business savvy, and you should also have great leadership skills.
+Did you know that the top 2% of project managers, as voted by their colleagues and peers, are those that have
+superior relationship skills, and great communication skills, emotional intelligence.
+So being a project manager involves many different things.
+But let's very rapidly comb through the landscape of project management.
+Project management is broken out into
+into five groups of processes.
+The first stage here, which is a group of processes, is known as initiating.
+This is where the project manager works with someone called a project sponsor or initiator.
+to develop a charter.
+This charter is a very important document.
+It authorizes the project, puts the project on the map, and gives the project manager the authority to apply resources to the project.
+After this, the next stage that follows
+not in absolute sequential order, but thinking about how things flow after the project is authorized, you want to begin planning in detail.
+This is known as the project management plan.
+subsidiary plans that lead up to the final project management plan, but that plan needs to be authorized by the project sponsor, by senior management, by the customer in some cases, and we refer to these as
+stakeholders.
+A stakeholder is anyone who can be affected by the project and anyone who can affect the project.
+The next stage is to begin executing that plan.
+We call this the Executing Process Group, and this is where deliverables
+are created.
+The next stage is monitoring and controlling the project.
+This is where the project manager could play detective, finding out what went wrong and if a change has occurred without proper authority and what to
+do to bring the project back in alignment with the plan, the final stage here is known as the closing process group, and this is where final reports and closure is followed through on.
+This is where the deliverable is transferred.
+to the customer.
+In summary, in initiating, the major goal is to follow through with whatever has been done prior to authorization, such as the business case being developed.
+We follow through and authorize
+the project based on the business case, based on a benefits management plan.
+In planning, we follow through on planning the project.
+After authorization, we create a project management plan.
+In executing, we get the work done, but we don't forget about the people.
+The people performing the work are so important.
+In monitoring and controlling, we check and act as needed to get every project aspect back on track.
+If it is out of alignment and in closing, we close out the project or a phase in the project and ultimately hand over that final product service or result to the customer so they can begin realizing benefits.
+and that's the summary of project management be aware that everything I have presented to you is from a much larger book this is one of our books project management essentials if you are looking at learning more about project management go to our website sign up for training
+you could become a certified associate in project management, known as a CAPM.
+All you need is a high school diploma and 23 hours of formal project management education.
+So what are you waiting for?
+Let's get started.
+See you in the course.
+Thank you.
