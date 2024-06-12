@@ -3,17 +3,48 @@
 ### 1. How to use the text Chunker?
 - Copy the module in your repository. 
 - Import the class "TextChunker()"
+- Import the configuration classes for the input ChunkerConfig, RecursiveSplitterConfig, RollingWindowConfig
+    - ChunkerConfig is for the general configuration for different chunkers
+    - RecursiveSplitterConfig and RollingWindowConfig are chunker-specific configurations
+**Sample Rolling Window Usage**
 ```
-from text_chunker.text_chunking import TextChunker
+from text_chunker.text_chunking import 
+from core import ChunkerConfig, RecursiveSplitterConfig, RollingWindowConfig
 
-chunker = TextChunker(
-            text            = five_mins_transcript,
-            chunk_size      = 451,
-            chunk_overlap   = 50,
+
+payload = ChunkerConfig(
+            mode = "rolling_window",
+            text = thesis,
+            page_size       = 4000,
+            page_overlap    = 100,
+            is_pages_numbered  = True,
+            is_pages_enabled  = True
+        )
+        payload_rolling_window = RollingWindowConfig(
+            min_split_tokens = 50,
+            max_split_tokens = 4000   
+        )
+        chunker = TextChunker(payload = payload, payload_rolling_window = payload_rolling_window)
+        paragraph_chunks = chunker.chunk_text()
+```
+**Sample Recursive Splitter Usage**
+```
+from text_chunker.text_chunking import 
+from core import ChunkerConfig, RecursiveSplitterConfig, RollingWindowConfig, TextChunker
+  payload = ChunkerConfig(
+            mode = "recursive",
+            text = thesis,
             page_size       = 1000,
             page_overlap    = 50,
+            is_pages_numbered  = False,
+            is_pages_enabled  = False
         )
-paragraph_chunks = chunker.chunk_text()
+        payload_recursive = RecursiveSplitterConfig(
+            chunk_size      = 451,
+            chunk_overlap   = 50
+        )
+        chunker = TextChunker(payload = payload, payload_recursive = payload_recursive)
+        paragraph_chunks = chunker.chunk_text()
 ```
 ### 2. Input parameters
 ***text:***  The transcript or body of text that the TextChunker will process.
