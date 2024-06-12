@@ -1,61 +1,74 @@
 from langchain.text_splitter import RecursiveCharacterTextSplitter
 from utils import tiktoken_len, check_required_kwargs, check_chunk_size, check_chunk_vs_page_size
 from helpers import get_pages
-from concurrent.futures import ThreadPoolExecutor
+from getpass import getpass
+import traceback
+from semantic_router.encoders import OpenAIEncoder
+from semantic_router.splitters import RollingWindowSplitter
+from semantic_router.utils.logger import logger
+from core import ChunkerConfig, RecursiveSplitterConfig, RollingWindowConfig
+import sys
+
 import json
 
-
 class TextChunker:
-    def __init__(self, **kwargs):
-
-        self.kwargs                 = kwargs
-        self.text                   = kwargs.get("text")
-        
-        self.chunk_size             = kwargs.get("chunk_size")
-        self.chunk_overlap          = kwargs.get("chunk_overlap")
-        self.length_function        = kwargs.get("length_function", tiktoken_len)
-        
-        self.page_size              = kwargs.get("page_size", float("inf"))
-        self.page_overlap           = kwargs.get("page_overlap", 0)
-        self.is_pages_numbered      = kwargs.get("is_pages_numbered", False)
-        self.is_pages_enabled       = kwargs.get("is_pages_enabled", False)
-        
-        self.mode                   = kwargs.get("mode", "")
-        self.__validate_input()  
-        
-        
-        
+    def __init__(self, 
+                 payload:                   ChunkerConfig, 
+                 payload_recursive:         RecursiveSplitterConfig = None,  # type: ignore
+                 payload_rolling_window:    RollingWindowConfig = None): # type: ignore
+        self.payload                = payload
+        self.payload_recursive      = payload_recursive
+        self.payload_rolling_window = payload_rolling_window
+        self.__validate_input()   
+    
     def __validate_input(self):
-        check_required_kwargs(self.kwargs)
-        check_chunk_size(self.chunk_size)
-        check_chunk_vs_page_size(self.chunk_size, self.page_size)
+        if self.payload.mode == "recrusive":
+            check_chunk_size(self.payload_recursive.chunk_size)
+            check_chunk_vs_page_size(self.payload_recursive.chunk_size, self.payload.page_size)
                
     def __chunk_texts_per_page(self, page):
         try:
-            text_splitter = RecursiveCharacterTextSplitter(
-                    chunk_size      = self.chunk_size,
-                    chunk_overlap   = self.chunk_overlap,
-                    length_function = self.length_function,
-                    )
-            chunks = text_splitter.split_text(page)
-            return chunks
+            # print(page, "\n")
+            if self.payload.mode == "recursive":
+                text_splitter = RecursiveCharacterTextSplitter(
+                        chunk_size      = self.payload_recursive.chunk_size,
+                        chunk_overlap   = self.payload_recursive.chunk_overlap,
+                        length_function = self.payload_recursive.length_function,
+                        )
+                chunks = text_splitter.split_text(page)
+                return chunks
+            if self.payload.mode == "rolling_window":
+                print('s')
+                text_splitter = RollingWindowSplitter(
+                encoder             =self.payload_rolling_window.encoder,
+                dynamic_threshold   =True,
+                min_split_tokens    =self.payload_rolling_window.min_split_tokens,
+                max_split_tokens    =self.payload_rolling_window.max_split_tokens,
+                window_size         =self.payload_rolling_window.window_size,
+                plot_splits         =self.payload_rolling_window.plot_splits, 
+                enable_statistics   =self.payload_rolling_window.enable_statistics  
+            )
+                chunks = text_splitter([page])
+                chunks = list(map(lambda v: v.content, chunks))
+                
+                
+                return chunks
         except Exception as e:
             print("Exception @ __chunk_texts_per_page:", e)
+        return []
 
     def chunk_text(self):
         try:
             pages = get_pages(
-                    text            = self.text,
-                    chunk_size      = self.page_size if self.is_pages_enabled else float("inf"),
-                    chunk_overlap   = self.page_overlap,
-                    length_function = self.length_function,
-                    numbered_pages  = self.is_pages_numbered
+                    self.payload,
+                    self.payload_recursive,
+                    self.payload_rolling_window
                     )
-            
             paragraph_chunks = []
-            for page in pages:
+            for page in pages:    
+                             
                 paragraph_chunks.extend(self.__chunk_texts_per_page(page))
-                
+            [print(paragraph_chunk, "\n\n") for paragraph_chunk in paragraph_chunks]
             return paragraph_chunks
         except Exception as e:
             print("Exception @ chunk_text:", e)

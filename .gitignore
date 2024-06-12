@@ -23,6 +23,8 @@ dumpy.py
 # Log files
 *.log
 output/
+dataset/
+.vscode
 *.pyc
 
 

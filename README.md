@@ -37,3 +37,6 @@ paragraph_chunks = chunker.chunk_text()
 ### 3. Output
 
 ***paragraph_chunks:*** An array of text segments, each representing a coherent chunk of the original input text.
+
+### 4. Other notes:
+- The folders "dataset" and "output" are only for testing purposes.
