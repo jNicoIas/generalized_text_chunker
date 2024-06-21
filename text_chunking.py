@@ -38,7 +38,6 @@ class TextChunker:
                 chunks = text_splitter.split_text(page)
                 return chunks
             if self.payload.mode == "rolling_window":
-                print('s')
                 text_splitter = RollingWindowSplitter(
                 encoder             =self.payload_rolling_window.encoder,
                 dynamic_threshold   =True,

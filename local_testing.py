@@ -14,11 +14,11 @@ def chunk_thesis_rolling_window():
             text = thesis,
             page_size       = 4000,
             page_overlap    = 100,
-            is_pages_numbered  = True,
+            is_pages_numbered  = False,
             is_pages_enabled  = True
         )
         payload_rolling_window = RollingWindowConfig(
-            min_split_tokens = 50,
+            min_split_tokens = 100,
             max_split_tokens = 4000   
         )
         chunker = TextChunker(payload = payload, payload_rolling_window = payload_rolling_window)
@@ -26,7 +26,7 @@ def chunk_thesis_rolling_window():
         paragraph_chunks_str = []
         
         with open('output/chunk_thesis_450_rolling.json', 'w') as file:
-            json.dump(paragraph_chunks_str, file)
+            json.dump(paragraph_chunks, file)
     except Exception as e:
         print("Exception @ chunk_thesis:",e)
 
