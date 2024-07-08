@@ -6,6 +6,27 @@
 - Import the configuration classes for the input ChunkerConfig, RecursiveSplitterConfig, RollingWindowConfig
     - ChunkerConfig is for the general configuration for different chunkers
     - RecursiveSplitterConfig and RollingWindowConfig are chunker-specific configurations
+
+**Sample Statistical Splitter Usage**
+```
+from text_chunker.text_chunking import 
+from core import ChunkerConfig, RecursiveSplitterConfig, RollingWindowConfig, StatisticalConfig
+payload = ChunkerConfig(
+    mode                = "statistical",
+    text                = thesis,
+    page_size           = 4000,
+    page_overlap        = 100,
+    is_pages_numbered   = False,
+    is_pages_enabled    = True
+)
+payload_statistical = StatisticalConfig(
+    min_split_tokens = 50,
+    max_split_tokens = 4000   
+)
+chunker = TextChunker(payload = payload, payload_statistical = payload_statistical)
+paragraph_chunks = chunker.chunk_text()
+```
+
 **Sample Rolling Window Usage**
 ```
 from text_chunker.text_chunking import 
@@ -46,6 +67,7 @@ payload_recursive = RecursiveSplitterConfig(
 chunker = TextChunker(payload = payload, payload_recursive = payload_recursive)
 paragraph_chunks = chunker.chunk_text()
 ```
+
 ### 2. Input parameters
 ***text:***  The transcript or body of text that the TextChunker will process.
 

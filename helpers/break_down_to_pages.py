@@ -6,7 +6,6 @@ from utils import tiktoken_len
 def get_pages(payload:ChunkerConfig, payload_recursive:RecursiveSplitterConfig, payload_rolling_window:RollingWindowConfig):
     try:        
         if payload.is_pages_enabled:
-            print('123')
             text_splitter = RecursiveCharacterTextSplitter(
                             chunk_size      = payload.page_size,
                             chunk_overlap   = payload.page_overlap,

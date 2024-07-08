@@ -26,4 +26,9 @@ class RollingWindowConfig(NamedTuple):
     enable_statistics: bool     = False  # to print chunking stats
     
     
-        
+class StatisticalConfig(NamedTuple):
+    encoder: OpenAIEncoder      = OpenAIEncoder(name="text-embedding-3-small", openai_api_key=OPENAI_API_KEY)
+    min_split_tokens: int       = 50
+    max_split_tokens: int       = 4000
+    split_tokens_tolerance: int = 10
+    
