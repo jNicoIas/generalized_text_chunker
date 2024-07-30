@@ -31,4 +31,6 @@ class StatisticalConfig(NamedTuple):
     min_split_tokens: int       = 50
     max_split_tokens: int       = 4000
     split_tokens_tolerance: int = 10
+    is_output_chunks: bool      = True
+    
     

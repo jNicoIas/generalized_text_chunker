@@ -62,8 +62,14 @@ class TextChunker:
                         max_split_tokens        = self.payload_statistical.max_split_tokens,
                         split_tokens_tolerance  = self.payload_statistical.split_tokens_tolerance 
                     )
-                chunks_obj = text_splitter(docs=[page])
-                chunks = [' '.join(chunk.splits) for chunk_list in chunks_obj for chunk in chunk_list]
+                
+                if self.payload_statistical.is_output_chunks == True:
+                    chunks_obj = text_splitter(docs=[page])
+                    chunks = [' '.join(chunk.splits) for chunk_list in chunks_obj for chunk in chunk_list]
+                else:
+                    chunks = text_splitter.splitter(page)
+                print(chunks)
+                exit(0)
                 return chunks
         except Exception as e:
             print("Exception @ __chunk_texts_per_page:", e)

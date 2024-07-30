@@ -14,11 +14,12 @@ def chunk_thesis_statistical():
             page_size           = 4000,
             page_overlap        = 100,
             is_pages_numbered   = False,
-            is_pages_enabled    = True
+            is_pages_enabled    = True,
         )
         payload_statistical = StatisticalConfig(
             min_split_tokens = 50,
-            max_split_tokens = 4000   
+            max_split_tokens = 100,
+            is_output_chunks = False
         )
         chunker = TextChunker(payload = payload, payload_statistical = payload_statistical)
         paragraph_chunks = chunker.chunk_text()
